@@ -1,0 +1,11 @@
+/* создаём контейнер section в котором отображается содержимое страницы */
+section {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 0;
+    border: 2px solid black;
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
